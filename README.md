@@ -50,3 +50,6 @@ Bộ dữ liệu gốc có thể được tải xuống tại liên kết dướ
 4. **Khởi chạy Chatbot:**
    - Mở và chạy toàn bộ các ô code (cells) trong notebook `gradio-vlm-rag-chatbot.ipynb`.
    - Truy cập vào đường link cục bộ (Local URL) do Gradio cung cấp để trải nghiệm trò chuyện với AI chuyên gia nông nghiệp trực tiếp trên trình duyệt.
+
+## Demo
+![Demo Chatbot](demo.jpg)
